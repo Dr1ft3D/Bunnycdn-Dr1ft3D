@@ -1,0 +1,31 @@
+{
+  "name": "bunnycdn-dr1ft3d",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bunnycdn",
+    "cdn",
+    "storage",
+    "sdk"
+  ],
+  "author": "Dr1ft3D",
+  "license": "MIT",
+  "description": "A Node.js SDK for interacting with BunnyCDN. Made By Dr1ft3D",
+  "dependencies": {
+    "@types/node": "^20.14.11",
+    "axios": "^1.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr1ft3D/Bunnycdn-dr1ft3d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dr1ft3D/Bunnycdn-dr1ft3d/issues"
+  },
+  "homepage": "https://github.com/Dr1ft3D/Bunnycdn-dr1ft3d#readme"
+}
